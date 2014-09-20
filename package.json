@@ -1,0 +1,17 @@
+{
+  "name": "lastfm-to-spotify",
+  "version": "0.0.1",
+  "description": "Play in Spotify what a Last.fm user is listening to",
+  "main": "main.js",
+  "dependencies": {
+    "echojs": "^0.1.4",
+    "lastfmapi": "0.0.5",
+    "spotify-node-applescript": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohn Blake <rohn@intensiveporpoises.com> (http://intensiveporpoises.com/)",
+  "license": "MIT"
+}
